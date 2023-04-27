@@ -3,7 +3,7 @@
 ## Setup
 To get this repository, run the following command inside your git enabled terminal
 ```
-https://github.com/Armin-WebDev/TodoApp-ClassBased.git
+git clone https://github.com/Armin-WebDev/TodoApp-ClassBased.git
 ```
 
 ## Getting ready
